@@ -7,7 +7,7 @@ eventTopic:
   - "L2"
   - "Scaling"
 eventType: "Virtual"
-location: 
+location: Virtual
 venueName: 
 venueAddress: 
 venueMapsLink: 
